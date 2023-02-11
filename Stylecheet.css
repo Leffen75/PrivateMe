@@ -1,5 +1,4 @@
 body{
-	backgound: linear-gradient(skyblue, lightgreen)
-	backguond-reapet: no-reapet;
-	backgound-attacment: fixed;	
+	background: linear-gradient(skyblue, lightgreen)
+	backgruond-repeat: no-repeat;
 }
